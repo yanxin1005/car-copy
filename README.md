@@ -1,6 +1,6 @@
 ##  项目名称：xxx汽车二手交易网站
   规避广告法的更好办法
-  开发环境：Python3.7
+  开发环境：Python3.8
 
   开发工具：bPycharm  Django  MySQL  HTML5  css  js
   我又要提交啦
